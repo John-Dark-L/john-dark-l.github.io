@@ -1,0 +1,85 @@
+body {
+  background-image: url("imagem/fundo.jpg");
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  width: 99%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  }
+
+th{
+  color: #4F4F4F;
+  background-color: #F0F8FF;
+}
+
+.c{
+  background-color:#9845c7;
+  border-radius:5%;
+  width: 10%;
+}
+
+.b{
+  font-style: normal;
+  color: #9F9F9F;
+}
+
+h1{
+  font-style: normal;
+  color: #4F4F4F;
+}
+
+h2{
+font-style: normal;
+color: #F0F8FF;
+}
+
+
+h3{
+font-style: normal;
+color: #F0F8FF;
+}
+
+.butaum {
+	background:linear-gradient(to bottom, #9845c7 5%, #bd2aa0 100%);
+	background-color:#9845c7;
+	border-radius:28px;
+	border:1px solid #a419ab;
+	display:inline-block;
+	cursor:pointer;
+	color:#860e9e;
+	font-family:Impact;
+	font-size:19px;
+	padding:14px 26px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #5c2866;
+}
+.butaum:hover {
+	background:linear-gradient(to bottom, #bd2aa0 5%, #9845c7 100%);
+	background-color:#bd2aa0;
+	width: 10%;
+}
+.butaum:active {
+	background:linear-gradient(to bottom, #2ecc71 5%, #069943 100%);
+	background-color:#bd2aa0;
+}
+
+.video {
+}
+.video:hover {
+width:30%
+}
+
+.gun {
+background-image: url("imagem/gun.gif");
+  background-size: cover;
+  background-position: center center;
+  width: 10%;
+}
+.gun:hover {
+background-image: url("imagem/gun2.gif");
+  background-size: cover;
+  background-position: center center;
+  width: 10%;
+}
+
